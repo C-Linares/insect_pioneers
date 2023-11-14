@@ -89,20 +89,37 @@ unique(prti$Site.of.Sample)
 # ad a col that indicates if it has been processed. 
 # first we make total leps a number
 
-prti$<-as.numeric(prti$Total.Lepidoptera)
+prti$Total.Lepidoptera<-as.numeric(prti$Total.Lepidoptera)
 
 # add a col to indicate they have been processed
 
 if_else(condition = is.na(prti$Total.Lepidoptera),true =1, false = 0 ) # 
 
-prti <- prti %>% mutate(prss = if_else(is.na(Total.Lepidoptera), 1, 0))
-
-t <-
-  prti %>% group_by(Site.of.Sample, wk, yrs) %>% summarize(unique_weel = unique(wk))
+prti <- prti %>% mutate(prss = if_else(is.na(Total.Lepidoptera), 0, 1))
 
 
+# Identify rows with NA in the count column
+na_rows <- prti %>% filter(is.na(Total.Lepidoptera))
+
+# Extract the site and week columns from the NA rows
+na_sites <- na_rows$Site.of.Sample
+na_weeks <- na_rows$wk
+na_date<-na_rows$Date.of.Sample
+
+# Create a unique table of the NA sites and weeks
+na_sites_weeks <- data.frame(site = na_sites, week = na_weeks, date=na_date) %>%
+  distinct() # this removes duplicates
+
+# Print the unique table of NA sites and weeks
 
 
+na_sites_weeks <- na_sites_weeks %>% arrange(site, week)
+
+write.csv(x = na_sites_weeks,"data/prioritysites.csv")
+
+# Graphs
+
+hist(prti$Total.Lepidoptera,breaks = 20)
 
 
 
