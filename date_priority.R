@@ -56,11 +56,21 @@ prti <-
       "UV2",
       "IBO- UV2",
       "Top of Iron mine UV6",
-      "UV 2"
+      "UV 2",
+      "e"
     )
   )
 
 unique(prti$Site.of.Sample)# none of the tags above should be in the new filter data
+
+# fix problems with the name of the IDer spelling
+
+
+prti$IDer = ifelse(prti$IDer %in% c("JESSE HOMZA", "Jesse HOMZA"),
+                   "Jesse Homza",
+                   prti$IDer)
+prti$IDer = ifelse(prti$IDer %in% "Abigial Bower", "Abigail Bower", prti$IDer)
+prti$IDer = ifelse(prti$IDer %in% "Greta Holliday ", "Greta Holliday", prti$IDer)
 
 # add week column-------------
 
@@ -93,35 +103,29 @@ prti$Total.Lepidoptera<-as.numeric(prti$Total.Lepidoptera)
 
 # add a col to indicate they have been processed
 
-if_else(condition = is.na(prti$Total.Lepidoptera),true =1, false = 0 ) # 
 
 prti <- prti %>% mutate(prss = if_else(is.na(Total.Lepidoptera), 0, 1))
 
 
-# Identify rows with NA in the count column
-na_rows <- prti %>% filter(is.na(Total.Lepidoptera))
+# sort the data by site date and week. 
 
-# Extract the site and week columns from the NA rows
-na_sites <- na_rows$Site.of.Sample
-na_weeks <- na_rows$wk
-na_date<-na_rows$Date.of.Sample
-
-# Create a unique table of the NA sites and weeks
-na_sites_weeks <- data.frame(site = na_sites, week = na_weeks, date=na_date) %>%
-  distinct() # this removes duplicates
-
-# Print the unique table of NA sites and weeks
+prti<-prti %>% arrange(Site.of.Sample, Date.of.Sample, yrs)
 
 
-na_sites_weeks <- na_sites_weeks %>% arrange(site, week)
+write.csv(x = prti,"data/prioritysites.csv")
 
-write.csv(x = na_sites_weeks,"data/prioritysites.csv")
+
+
 
 # Graphs
 
 hist(prti$Total.Lepidoptera,breaks = 20)
 
+# this didn't work
 
+
+ggplot(prti,aes(x=IDer, y=Total.Lepidoptera))+
+  geom_boxplot()
 
 
 
@@ -140,3 +144,24 @@ hist(prti$Total.Lepidoptera,breaks = 20)
 # t1<-filter(prti, Date.of.Sample == "Aug 10 2021") # seems we don't need this anymore
 # t2<-filter(prti, Date.of.Sample == "")
 # t3<-filter(prti, Date.of.Sample == "8/5")
+
+
+# this might be junk
+
+# Identify rows with NA in the count column
+na_rows <- prti %>% filter(is.na(Total.Lepidoptera))
+
+# Extract the site and week columns from the NA rows
+na_sites <- na_rows$Site.of.Sample
+na_weeks <- na_rows$wk
+na_date<-na_rows$Date.of.Sample
+
+# Create a unique table of the NA sites and weeks
+na_sites_weeks <- data.frame(site = na_sites, week = na_weeks, date=na_date) %>%
+  distinct() # this removes duplicates
+
+# Print the unique table of NA sites and weeks
+
+
+na_sites_weeks <- na_sites_weeks %>% arrange(site, week)
+
