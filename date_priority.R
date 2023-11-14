@@ -36,7 +36,7 @@ unique(raw_insects$Site.of.Sample)
 # here we select the columns and rows that we want to filter out.
 
 prti <-
-  raw_insects %>% select(Site.of.Sample, Date.of.Sample, IDer, Total.Lepidoptera)
+  raw_insects %>% select(Site.of.Sample, Date.of.Sample, IDer, Total.Lepidoptera, Plecoptera,Trichoptera,Ephemeroptera)
 
 prti <-
   prti %>% filter(
@@ -100,6 +100,10 @@ unique(prti$Site.of.Sample)
 # first we make total leps a number
 
 prti$Total.Lepidoptera<-as.numeric(prti$Total.Lepidoptera)
+prti$Trichoptera<-as.numeric(prti$Trichoptera)
+prti$Ephemeroptera<-as.numeric(prti$Ephemeroptera)
+prti$Plecoptera<-as.numeric(prti$Plecoptera)
+
 
 # add a col to indicate they have been processed
 
@@ -128,11 +132,17 @@ ggplot(prti,aes(x=IDer, y=Total.Lepidoptera))+
   geom_boxplot()
 
 
+ggplot(prti,aes(IDer,Trichoptera))+
+  geom_boxplot()+
+  geom_point()
 
+ggplot(prti,aes(IDer,Ephemeroptera))+
+  geom_boxplot()+
+  geom_point()
 
-
-
-
+ggplot(prti,aes(IDer,Plecoptera))+
+  geom_boxplot()+
+  geom_point()
 
 
 

@@ -1,230 +1,230 @@
-"","Site.of.Sample","Date.of.Sample","IDer","Total.Lepidoptera","wk","yrs","prss"
-"1","IRON01",NA,"",NA,NA,NA,0
-"2","IRON01",NA,"Jesse Homza",46,NA,NA,1
-"3","IRON01",NA,"",NA,NA,NA,0
-"4","IRON01",NA,"",NA,NA,NA,0
-"5","IRON01",NA,"",NA,NA,NA,0
-"6","IRON01",NA,"Abigail Bower",151,NA,NA,1
-"7","IRON01",NA,"",NA,NA,NA,0
-"8","IRON01",NA,"",NA,NA,NA,0
-"9","IRON01",NA,"",NA,NA,NA,0
-"10","IRON01",NA,"",NA,NA,NA,0
-"11","IRON01",NA,"Greta Holliday",36,NA,NA,1
-"12","IRON01",NA,"",NA,NA,NA,0
-"13","IRON01",NA,"",NA,NA,NA,0
-"14","IRON01",NA,"Abigail Bower",74,NA,NA,1
-"15","IRON01",NA,"",NA,NA,NA,0
-"16","IRON01",NA,"Jesse Homza",117,NA,NA,1
-"17","IRON01",NA,"Abigail Bower",1005,NA,NA,1
-"18","IRON01",NA,"",NA,NA,NA,0
-"19","IRON01/03",NA,"",NA,NA,NA,0
-"20","IRON02",NA,"Jesse Homza",449,NA,NA,1
-"21","IRON02",NA,"Greta Holliday",93,NA,NA,1
-"22","IRON02",NA,"Greta Holliday",94,NA,NA,1
-"23","IRON02",NA,"",NA,NA,NA,0
-"24","IRON02",NA,"",NA,NA,NA,0
-"25","IRON02",NA,"",NA,NA,NA,0
-"26","IRON02",NA,"",NA,NA,NA,0
-"27","IRON02",NA,"Abigail Bower",193,NA,NA,1
-"28","IRON02",NA,"",NA,NA,NA,0
-"29","IRON02",NA,"BETH HANEY",54,NA,NA,1
-"30","IRON02",NA,"Abigail Bower",255,NA,NA,1
-"31","IRON02",NA,"",NA,NA,NA,0
-"32","IRON02",NA,"",NA,NA,NA,0
-"33","IRON03",NA,"Greta Holliday",46,NA,NA,1
-"34","IRON03",NA,"",NA,NA,NA,0
-"35","IRON03",NA,"",NA,NA,NA,0
-"36","IRON03",NA,"",NA,NA,NA,0
-"37","IRON03",NA,"Greta Holliday",171,NA,NA,1
-"38","IRON03",NA,"",NA,NA,NA,0
-"39","IRON03",NA,"BETH HANEY",1,NA,NA,1
-"40","IRON03",NA,"Greta Holliday",478,NA,NA,1
-"41","IRON03",NA,"Greta Holliday",14,NA,NA,1
-"42","IRON03",NA,"",NA,NA,NA,0
-"43","IRON03",NA,"Abigail Bower",179,NA,NA,1
-"44","IRON03",NA,"",NA,NA,NA,0
-"45","IRON03",NA,"Jesse Homza",100,NA,NA,1
-"46","IRON03",NA,"Abigail Bower",37,NA,NA,1
-"47","IRON03",NA,"Abigail Bower",NA,NA,NA,0
-"48","IRON04",NA,"",NA,NA,NA,0
-"49","IRON04",NA,"Greta Holliday",159,NA,NA,1
-"50","IRON04",NA,"",NA,NA,NA,0
-"51","IRON04",NA,"Greta Holliday",630,NA,NA,1
-"52","IRON04",NA,"",NA,NA,NA,0
-"53","IRON04",NA,"",NA,NA,NA,0
-"54","IRON04",NA,"Jesse Homza",135,NA,NA,1
-"55","IRON04",NA,"",NA,NA,NA,0
-"56","IRON04",NA,"BETH HANEY",66,NA,NA,1
-"57","IRON04",NA,"Jesse Homza",204,NA,NA,1
-"58","IRON04",NA,"",NA,NA,NA,0
-"59","IRON043",NA,"",NA,NA,NA,0
-"60","IRON05",NA,"Jesse Homza",67,NA,NA,1
-"61","IRON05",NA,"",NA,NA,NA,0
-"62","IRON05",NA,"",NA,NA,NA,0
-"63","IRON05",NA,"Greta Holliday",254,NA,NA,1
-"64","IRON05",NA,"",NA,NA,NA,0
-"65","IRON05",NA,"",NA,NA,NA,0
-"66","IRON05",NA,"",NA,NA,NA,0
-"67","IRON05",NA,"Greta Holliday",12,NA,NA,1
-"68","IRON05",NA,"",NA,NA,NA,0
-"69","IRON05",NA,"",NA,NA,NA,0
-"70","IRON05",NA,"Jesse Homza",74,NA,NA,1
-"71","IRON05",NA,"Jesse Homza",166,NA,NA,1
-"72","IRON05",NA,"Jesse Homza",337,NA,NA,1
-"73","IRON05",NA,"",NA,NA,NA,0
-"74","IRON06",NA,"Jesse Homza",102,NA,NA,1
-"75","IRON06",NA,"Jesse Homza",NA,NA,NA,0
-"76","IRON06",NA,"Greta Holliday",140,NA,NA,1
-"77","IRON06",NA,"",NA,NA,NA,0
-"78","IRON06",NA,"",NA,NA,NA,0
-"79","IRON06",NA,"",NA,NA,NA,0
-"80","IRON06",NA,"Greta Holliday",15,NA,NA,1
-"81","IRON06",NA,"",NA,NA,NA,0
-"82","IRON06",NA,"Abigail Bower",92,NA,NA,1
-"83","IRON06",NA,"",NA,NA,NA,0
-"84","IRON06",NA,"Jesse Homza",44,NA,NA,1
-"85","IRON06",NA,"Jesse Homza",430,NA,NA,1
-"86","IRON06",NA,"",NA,NA,NA,0
-"87","Long 02",NA,"Abigail Bower",886,NA,NA,1
-"88","Long Canyon 5",NA,"",NA,NA,NA,0
-"89","LONG01",NA,"Needs ethanol",NA,NA,NA,0
-"90","LONG01",NA,"",NA,NA,NA,0
-"91","LONG01",NA,"",NA,NA,NA,0
-"92","LONG01",NA,"Abigail Bower",57,NA,NA,1
-"93","LONG01",NA,"",NA,NA,NA,0
-"94","LONG01",NA,"Abigail Bower",162,NA,NA,1
-"95","LONG01",NA,"",NA,NA,NA,0
-"96","LONG01",NA,"",NA,NA,NA,0
-"97","LONG01",NA,"Greta Holliday",234,NA,NA,1
-"98","LONG01",NA,"Greta Holliday",14,NA,NA,1
-"99","LONG01",NA,"",NA,NA,NA,0
-"100","LONG01",NA,"",NA,NA,NA,0
-"101","LONG01",NA,"Abigail Bower",142,NA,NA,1
-"102","LONG01",NA,"Abigail Bower",92,NA,NA,1
-"103","LONG01",NA,"Abigail Bower",617,NA,NA,1
-"104","LONG01",NA,"",NA,NA,NA,0
-"105","LONG01",NA,"Abigail Bower",0,NA,NA,1
-"106","LONG02",NA,"Jesse Homza",129,NA,NA,1
-"107","LONG02",NA,"Greta Holliday",253,NA,NA,1
-"108","LONG02",NA,"Greta Holliday",41,NA,NA,1
-"109","LONG02",NA,"",NA,NA,NA,0
-"110","LONG02",NA,"Greta Holliday",NA,NA,NA,0
-"111","LONG02",NA,"Abigail Bower",44,NA,NA,1
-"112","LONG02",NA,"",NA,NA,NA,0
-"113","LONG02",NA,"",NA,NA,NA,0
-"114","LONG02",NA,"",NA,NA,NA,0
-"115","LONG02",NA,"Abigail Bower",114,NA,NA,1
-"116","LONG02",NA,"Jae Phelps",115,NA,NA,1
-"117","LONG02",NA,"Abigail Bower",886,NA,NA,1
-"118","LONG02",NA,"Jesse Homza",22,NA,NA,1
-"119","LONG02",NA,"",NA,NA,NA,0
-"120","LONG02",NA,"",NA,NA,NA,0
-"121","LONG02",NA,"",NA,NA,NA,0
-"122","LONG03",NA,"",NA,NA,NA,0
-"123","LONG03",NA,"",NA,NA,NA,0
-"124","LONG03",NA,"",NA,NA,NA,0
-"125","LONG03",NA,"",NA,NA,NA,0
-"126","LONG03",NA,"Abigail Bower",373,NA,NA,1
-"127","LONG03",NA,"",NA,NA,NA,0
-"128","LONG03",NA,"Greta Holliday",36,NA,NA,1
-"129","LONG03",NA,"",NA,NA,NA,0
-"130","LONG03",NA,"Abigail Bower",396,NA,NA,1
-"131","LONG03",NA,"",NA,NA,NA,0
-"132","LONG03",NA,"",NA,NA,NA,0
-"133","LONG03",NA,"Abigail Bower",164,NA,NA,1
-"134","LONG03",NA,"",NA,NA,NA,0
-"135","LONG03",NA,"Jesse Homza",80,NA,NA,1
-"136","LONG03",NA,"Jesse Homza",1233,NA,NA,1
-"137","LONG03",NA,"",NA,NA,NA,0
-"138","LONG03/02",NA,"",NA,NA,NA,0
-"139","LONG04",NA,"",NA,NA,NA,0
-"140","LONG04",NA,"Abigail Bower",503,NA,NA,1
-"141","LONG04",NA,"Abigail Bower",67,NA,NA,1
-"142","LONG04",NA,"Greta Holliday",323,NA,NA,1
-"143","LONG04",NA,"",NA,NA,NA,0
-"144","LONG04",NA,"",NA,NA,NA,0
-"145","LONG04",NA,"Greta Holliday",945,NA,NA,1
-"146","LONG04",NA,"Greta Holliday",39,NA,NA,1
-"147","LONG04",NA,"",NA,NA,NA,0
-"148","LONG04",NA,"",NA,NA,NA,0
-"149","LONG04",NA,"",NA,NA,NA,0
-"150","LONG04",NA,"",NA,NA,NA,0
-"151","LONG04",NA,"Jesse Homza",275,NA,NA,1
-"152","LONG04",NA,"Jesse Homza",96,NA,NA,1
-"153","LONG04",NA,"",NA,NA,NA,0
-"154","LONG04",NA,"Greta Holliday",528,NA,NA,1
-"155","LONG04",NA,"",NA,NA,NA,0
-"156","LONG04",NA,"",NA,NA,NA,0
-"157","LONG05",NA,"Greta Holliday",93,NA,NA,1
-"158","LONG05",NA,"Jesse Homza",705,NA,NA,1
-"159","LONG05",NA,"",NA,NA,NA,0
-"160","LONG05",NA,"",NA,NA,NA,0
-"161","LONG05",NA,"",NA,NA,NA,0
-"162","LONG05",NA,"",NA,NA,NA,0
-"163","LONG05",NA,"",NA,NA,NA,0
-"164","LONG05",NA,"Greta Holliday",54,NA,NA,1
-"165","LONG05",NA,"",NA,NA,NA,0
-"166","LONG05",NA,"Abigail Bower",466,NA,NA,1
-"167","LONG05",NA,"",NA,NA,NA,0
-"168","LONG05",NA,"Abigail Bower",272,NA,NA,1
-"169","LONG05",NA,"Jesse Homza",386,NA,NA,1
-"170","LONG05",NA,"Jesse Homza",1036,NA,NA,1
-"171","LONG05",NA,"",NA,NA,NA,0
-"172","LONG05",NA,"",NA,NA,NA,0
-"173","VISC01",NA,"Jesse Homza",135,NA,NA,1
-"174","VISC02",NA,"",NA,NA,NA,0
-"175","VISC02",NA,"",NA,NA,NA,0
-"176","VIZC01",NA,"Greta Holliday",371,NA,NA,1
-"177","VIZC01",NA,"",NA,NA,NA,0
-"178","VIZC01",NA,"",NA,NA,NA,0
-"179","VIZC01",NA,"Jesse Homza",169,NA,NA,1
-"180","VIZC01",NA,"",NA,NA,NA,0
-"181","VIZC01",NA,"Abigail Bower",169,NA,NA,1
-"182","VIZC01",NA,"",NA,NA,NA,0
-"183","VIZC01",NA,"Jesse Homza",174,NA,NA,1
-"184","VIZC01",NA,"Jesse Homza",117,NA,NA,1
-"185","VIZC01",NA,"Jesse Homza",62,NA,NA,1
-"186","VIZC01",NA,"Jesse Homza",345,NA,NA,1
-"187","VIZC01",NA,"",NA,NA,NA,0
-"188","VIZC01",NA,"",NA,NA,NA,0
-"189","VIZC02",NA,"",NA,NA,NA,0
-"190","VIZC02",NA,"",NA,NA,NA,0
-"191","VIZC02",NA,"",NA,NA,NA,0
-"192","VIZC02",NA,"",NA,NA,NA,0
-"193","VIZC02",NA,"",NA,NA,NA,0
-"194","VIZC02",NA,"",NA,NA,NA,0
-"195","VIZC02",NA,"Greta Holliday",72,NA,NA,1
-"196","VIZC02",NA,"",NA,NA,NA,0
-"197","VIZC02",NA,"Abigail Bower",139,NA,NA,1
-"198","VIZC02",NA,"Jesse Homza",117,NA,NA,1
-"199","VIZC02",NA,"Jesse Homza",482,NA,NA,1
-"200","VIZC02",NA,"",NA,NA,NA,0
-"201","VIZC03",NA,"",NA,NA,NA,0
-"202","VIZC03",NA,"Abigail Bower",NA,NA,NA,0
-"203","VIZC03",NA,"",NA,NA,NA,0
-"204","VIZC03",NA,"",NA,NA,NA,0
-"205","VIZC03",NA,"",NA,NA,NA,0
-"206","VIZC03",NA,"",NA,NA,NA,0
-"207","VIZC03",NA,"",NA,NA,NA,0
-"208","VIZC03",NA,"Abigail Bower",82,NA,NA,1
-"209","VIZC03",NA,"",NA,NA,NA,0
-"210","VIZC03",NA,"Jesse Homza",197,NA,NA,1
-"211","VIZC03",NA,"",NA,NA,NA,0
-"212","VIZC03",NA,"Jesse Homza",75,NA,NA,1
-"213","VIZC03",NA,"Abigail Bower",NA,NA,NA,0
-"214","VIZC03",NA,"",NA,NA,NA,0
-"215","VIZC03",NA,"",NA,NA,NA,0
-"216","VIZC04",NA,"",NA,NA,NA,0
-"217","VIZC04",NA,"Greta Holliday",523,NA,NA,1
-"218","VIZC04",NA,"",NA,NA,NA,0
-"219","VIZC04",NA,"",NA,NA,NA,0
-"220","VIZC04",NA,"",NA,NA,NA,0
-"221","VIZC04",NA,"",NA,NA,NA,0
-"222","VIZC04",NA,"Greta Holliday",158,NA,NA,1
-"223","VIZC04",NA,"",NA,NA,NA,0
-"224","VIZC04",NA,"",NA,NA,NA,0
-"225","VIZC04",NA,"",NA,NA,NA,0
-"226","VIZC04",NA,"Jesse Homza",51,NA,NA,1
-"227","VIZC04",NA,"Jesse Homza",161,NA,NA,1
-"228","VIZC04",NA,"",NA,NA,NA,0
-"229","vizcaen",NA,"",NA,NA,NA,0
+"","Site.of.Sample","Date.of.Sample","IDer","Total.Lepidoptera","Plecoptera","Trichoptera","Ephemeroptera","wk","yrs","prss"
+"1","IRON01",2021-06-24,"",NA,"",NA,"",25,2021,0
+"2","IRON01",2021-06-24,"Jesse Homza",0,"0",3,"0",25,2021,1
+"3","IRON01",2021-06-24,"",NA,"",NA,"",25,2021,0
+"4","IRON01",2021-07-08,"",NA,"",NA,"",27,2021,0
+"5","IRON01",2021-07-08,"",NA,"",NA,"",27,2021,0
+"6","IRON01",2021-07-15,"Abigail Bower",8,"8",2,"0",28,2021,1
+"7","IRON01",2021-07-16,"",NA,"",NA,"",29,2021,0
+"8","IRON01",2021-07-21,"",NA,"",NA,"",29,2021,0
+"9","IRON01",2021-07-28,"",NA,"",NA,"",30,2021,0
+"10","IRON01",2021-08-04,"",NA,"",NA,"",31,2021,0
+"11","IRON01",2021-08-10,"Greta Holliday",0,"0",2,"0",32,2021,1
+"12","IRON01",2022-05-07,"",NA,"",NA,"",19,2022,0
+"13","IRON01",2022-06-27,"",NA,"",NA,"",26,2022,0
+"14","IRON01",2022-07-05,"Abigail Bower",3,"3",5,"0",27,2022,1
+"15","IRON01",2022-07-11,"",NA,"",NA,"",28,2022,0
+"16","IRON01",2022-07-18,"Jesse Homza",NA,"-",10,"",29,2022,0
+"17","IRON01",2022-07-26,"Abigail Bower",0,"0",35,"0",30,2022,1
+"18","IRON01",2022-08-01,"",NA,"",NA,"",31,2022,0
+"19","IRON01/03",2021-08-04,"",NA,"",NA,"",31,2021,0
+"20","IRON02",2021-06-24,"Jesse Homza",0,"0",29,"0",25,2021,1
+"21","IRON02",2021-07-08,"Greta Holliday",0,"0",3,"0",27,2021,1
+"22","IRON02",2021-07-15,"Greta Holliday",0,"0",2,"0",28,2021,1
+"23","IRON02",2021-07-21,"",NA,"",NA,"",29,2021,0
+"24","IRON02",2021-07-28,"",NA,"",NA,"",30,2021,0
+"25","IRON02",2021-08-10,"",NA,"",NA,"",32,2021,0
+"26","IRON02",2022-06-27,"",NA,"",NA,"",26,2022,0
+"27","IRON02",2022-07-05,"Abigail Bower",8,"8",19,"0",27,2022,1
+"28","IRON02",2022-07-11,"",NA,"",NA,"",28,2022,0
+"29","IRON02",2022-07-18,"BETH HANEY",NA,"-",17,"1",29,2022,0
+"30","IRON02",2022-07-26,"Abigail Bower",19,"19",11,"0",30,2022,1
+"31","IRON02",2022-08-01,"",NA,"",NA,"",31,2022,0
+"32","IRON02",2022-08-01,"",NA,"",NA,"",31,2022,0
+"33","IRON03",2021-06-24,"Greta Holliday",0,"0",7,"0",25,2021,1
+"34","IRON03",2021-06-24,"",NA,"",NA,"",25,2021,0
+"35","IRON03",2021-06-24,"",NA,"",NA,"",25,2021,0
+"36","IRON03",2021-07-12,"",NA,"",NA,"",28,2021,0
+"37","IRON03",2021-07-15,"Greta Holliday",0,"0",0,"0",28,2021,1
+"38","IRON03",2021-07-21,"",NA,"",NA,"",29,2021,0
+"39","IRON03",2021-07-28,"BETH HANEY",NA,"-",NA,"-",30,2021,0
+"40","IRON03",2021-08-04,"Greta Holliday",0,"0",24,"0",31,2021,1
+"41","IRON03",2021-08-10,"Greta Holliday",0,"0",0,"0",32,2021,1
+"42","IRON03",2022-06-28,"",NA,"",NA,"",26,2022,0
+"43","IRON03",2022-07-05,"Abigail Bower",0,"0",33,"0",27,2022,1
+"44","IRON03",2022-07-11,"",NA,"",NA,"",28,2022,0
+"45","IRON03",2022-07-18,"Jesse Homza",NA,"-",0,"0",29,2022,0
+"46","IRON03",2022-08-01,"Abigail Bower",1,"1",0,"0",31,2022,1
+"47","IRON03",2022-08-01,"Abigail Bower",3,"3",50,"0",31,2022,1
+"48","IRON04",2021-07-08,"",NA,"",NA,"",27,2021,0
+"49","IRON04",2021-07-15,"Greta Holliday",0,"0",5,"0",28,2021,1
+"50","IRON04",2021-07-28,"",NA,"",NA,"",30,2021,0
+"51","IRON04",2021-08-04,"Greta Holliday",1,"1",18,"2",31,2021,1
+"52","IRON04",2021-08-10,"",NA,"",NA,"",32,2021,0
+"53","IRON04",2022-06-28,"",NA,"",NA,"",26,2022,0
+"54","IRON04",2022-07-05,"Jesse Homza",0,"0",0,"0",27,2022,1
+"55","IRON04",2022-07-11,"",NA,"",NA,"",28,2022,0
+"56","IRON04",2022-07-18,"BETH HANEY",NA,"-",3,"0",29,2022,0
+"57","IRON04",2022-07-26,"Jesse Homza",0,"0",0,"0",30,2022,1
+"58","IRON04",2022-08-01,"",NA,"",NA,"",31,2022,0
+"59","IRON043",2022-07-26,"",NA,"",NA,"",30,2022,0
+"60","IRON05",2021-06-24,"Jesse Homza",0,"0",7,"0",25,2021,1
+"61","IRON05",2021-06-24,"",NA,"",NA,"",25,2021,0
+"62","IRON05",2021-07-08,"",NA,"",NA,"",27,2021,0
+"63","IRON05",2021-07-15,"Greta Holliday",0,"0",8,"0",28,2021,1
+"64","IRON05",2021-07-21,"",NA,"",NA,"",29,2021,0
+"65","IRON05",2021-07-28,"",NA,"",NA,"",30,2021,0
+"66","IRON05",2021-08-04,"",NA,"",NA,"",31,2021,0
+"67","IRON05",2021-08-10,"Greta Holliday",0,"0",0,"0",32,2021,1
+"68","IRON05",2022-06-27,"",NA,"",NA,"",26,2022,0
+"69","IRON05",2022-07-05,"",NA,"",NA,"",27,2022,0
+"70","IRON05",2022-07-11,"Jesse Homza",0,"0",3,"0",28,2022,1
+"71","IRON05",2022-07-18,"Jesse Homza",NA,"-",0,"0",29,2022,0
+"72","IRON05",2022-07-26,"Jesse Homza",0,"0",11,"0",30,2022,1
+"73","IRON05",2022-08-01,"",NA,"",NA,"",31,2022,0
+"74","IRON06",2021-06-24,"Jesse Homza",1,"1",2,"0",25,2021,1
+"75","IRON06",2021-06-24,"Jesse Homza",NA,"",NA,"",25,2021,0
+"76","IRON06",2021-07-08,"Greta Holliday",0,"0",7,"0",27,2021,1
+"77","IRON06",2021-07-10,"",NA,"",NA,"",28,2021,0
+"78","IRON06",2021-07-21,"",NA,"",NA,"",29,2021,0
+"79","IRON06",2021-07-28,"",NA,"",NA,"",30,2021,0
+"80","IRON06",2021-08-10,"Greta Holliday",0,"0",4,"0",32,2021,1
+"81","IRON06",2022-06-27,"",NA,"",NA,"",26,2022,0
+"82","IRON06",2022-07-05,"Abigail Bower",4,"4",0,"0",27,2022,1
+"83","IRON06",2022-07-11,"",NA,"",NA,"",28,2022,0
+"84","IRON06",2022-07-18,"Jesse Homza",NA,"-",1,"0",29,2022,0
+"85","IRON06",2022-07-26,"Jesse Homza",0,"0",30,"0",30,2022,1
+"86","IRON06",2022-08-01,"",NA,"",NA,"",31,2022,0
+"87","Long 02",2022-06-22,"Abigail Bower",0,"0",223,"0",25,2022,1
+"88","Long Canyon 5",2020-07-29,"",NA,"",NA,"",31,2020,0
+"89","LONG01",2020-07-29,"Needs ethanol",NA,"",NA,"",31,2020,0
+"90","LONG01",2021-06-22,"",NA,"",NA,"",25,2021,0
+"91","LONG01",2021-06-22,"",NA,"",NA,"",25,2021,0
+"92","LONG01",2021-07-08,"Abigail Bower",0,"0",1,"0",27,2021,1
+"93","LONG01",2021-07-09,"",NA,"",NA,"",28,2021,0
+"94","LONG01",2021-07-15,"Abigail Bower",3,"3",4,"0",28,2021,1
+"95","LONG01",2021-07-21,"",NA,"",NA,"",29,2021,0
+"96","LONG01",2021-08-04,"",NA,"",NA,"",31,2021,0
+"97","LONG01",2021-08-09,"Greta Holliday",0,"0",9,"0",32,2021,1
+"98","LONG01",2021-08-11,"Greta Holliday",0,"0",0,"0",32,2021,1
+"99","LONG01",2022-06-27,"",NA,"",NA,"",26,2022,0
+"100","LONG01",2022-07-05,"",NA,"",NA,"",27,2022,0
+"101","LONG01",2022-07-11,"Abigail Bower",2,"2",11,"0",28,2022,1
+"102","LONG01",2022-07-18,"Abigail Bower",18,"18",5,"0",29,2022,1
+"103","LONG01",2022-07-26,"Abigail Bower",1,"1",34,"0",30,2022,1
+"104","LONG01",2022-08-01,"",NA,"",NA,"",31,2022,0
+"105","LONG01",2022-08-01,"Abigail Bower",4,"4",50,"0",31,2022,1
+"106","LONG02",2021-06-22,"Jesse Homza",0,"0",10,"0",25,2021,1
+"107","LONG02",2021-07-08,"Greta Holliday",0,"0",7,"0",27,2021,1
+"108","LONG02",2021-07-15,"Greta Holliday",0,"0",1,"0",28,2021,1
+"109","LONG02",2021-07-21,"",NA,"",NA,"",29,2021,0
+"110","LONG02",2021-08-11,"Greta Holliday",1,"1",16,"0",32,2021,1
+"111","LONG02",2021-08-11,"Abigail Bower",1,"1",0,"0",32,2021,1
+"112","LONG02",2022-06-27,"",NA,"",NA,"",26,2022,0
+"113","LONG02",2022-07-05,"",NA,"",NA,"",27,2022,0
+"114","LONG02",2022-07-05,"",NA,"",NA,"",27,2022,0
+"115","LONG02",2022-07-11,"Abigail Bower",18,"18",4,"0",28,2022,1
+"116","LONG02",2022-07-18,"Jae Phelps",0,"0",0,"0",29,2022,1
+"117","LONG02",2022-07-22,"Abigail Bower",NA,"-",223,"0",29,2022,0
+"118","LONG02",2022-07-26,"Jesse Homza",0,"0",1,"0",30,2022,1
+"119","LONG02",2022-07-26,"",NA,"",NA,"",30,2022,0
+"120","LONG02",2022-08-01,"",NA,"",NA,"",31,2022,0
+"121","LONG02",2022-08-01,"",NA,"",NA,"",31,2022,0
+"122","LONG03",2021-06-22,"",NA,"",NA,"",25,2021,0
+"123","LONG03",2021-07-08,"",NA,"",NA,"",27,2021,0
+"124","LONG03",2021-07-08,"",NA,"",NA,"",27,2021,0
+"125","LONG03",2021-07-08,"",NA,"",NA,"",27,2021,0
+"126","LONG03",2021-07-15,"Abigail Bower",15,"15",20,"0",28,2021,1
+"127","LONG03",2021-07-22,"",NA,"",NA,"",29,2021,0
+"128","LONG03",2021-08-11,"Greta Holliday",0,"0",2,"0",32,2021,1
+"129","LONG03",2022-06-27,"",NA,"",NA,"",26,2022,0
+"130","LONG03",2022-07-05,"Abigail Bower",1,"1",27,"0",27,2022,1
+"131","LONG03",2022-07-11,"",NA,"",NA,"",28,2022,0
+"132","LONG03",2022-07-11,"",NA,"",NA,"",28,2022,0
+"133","LONG03",2022-07-18,"Abigail Bower",3,"3",0,"0",29,2022,1
+"134","LONG03",2022-07-26,"",NA,"",NA,"",30,2022,0
+"135","LONG03",2022-07-26,"Jesse Homza",0,"0",2,"0",30,2022,1
+"136","LONG03",2022-08-01,"Jesse Homza",0,"0",29,"0",31,2022,1
+"137","LONG03",2022-08-01,"",NA,"",NA,"",31,2022,0
+"138","LONG03/02",2021-08-04,"",NA,"",NA,"",31,2021,0
+"139","LONG04",2021-06-22,"",NA,"",NA,"",25,2021,0
+"140","LONG04",2021-07-08,"Abigail Bower",11,"11",12,"0",27,2021,1
+"141","LONG04",2021-07-08,"Abigail Bower",2,"2",3,"0",27,2021,1
+"142","LONG04",2021-07-15,"Greta Holliday",0,"0",1,"0",28,2021,1
+"143","LONG04",2021-07-22,"",NA,"",NA,"",29,2021,0
+"144","LONG04",2021-07-22,"",NA,"",NA,"",29,2021,0
+"145","LONG04",2021-08-04,"Greta Holliday",0,"0",13,"0",31,2021,1
+"146","LONG04",2021-08-11,"Greta Holliday",0,"0",1,"0",32,2021,1
+"147","LONG04",2022-06-27,"",NA,"",NA,"",26,2022,0
+"148","LONG04",2022-06-27,"",NA,"",NA,"",26,2022,0
+"149","LONG04",2022-07-05,"",NA,"",NA,"",27,2022,0
+"150","LONG04",2022-07-11,"",NA,"",NA,"",28,2022,0
+"151","LONG04",2022-07-11,"Jesse Homza",0,"0",2,"0",28,2022,1
+"152","LONG04",2022-07-18,"Jesse Homza",0,"0",0,"0",29,2022,1
+"153","LONG04",2022-07-26,"",NA,"",NA,"",30,2022,0
+"154","LONG04",2022-07-26,"Greta Holliday",0,"0",15,"0",30,2022,1
+"155","LONG04",2022-08-01,"",NA,"",NA,"",31,2022,0
+"156","LONG04",2022-08-01,"",NA,"",NA,"",31,2022,0
+"157","LONG05",2021-06-22,"Greta Holliday",0,"0",5,"0",25,2021,1
+"158","LONG05",2021-06-22,"Jesse Homza",0,"0",24,"0",25,2021,1
+"159","LONG05",2021-06-22,"",NA,"",NA,"",25,2021,0
+"160","LONG05",2021-07-08,"",NA,"",NA,"",27,2021,0
+"161","LONG05",2021-07-15,"",NA,"",NA,"",28,2021,0
+"162","LONG05",2021-07-22,"",NA,"",NA,"",29,2021,0
+"163","LONG05",2021-08-04,"",NA,"",NA,"",31,2021,0
+"164","LONG05",2021-08-11,"Greta Holliday",0,"0",1,"0",32,2021,1
+"165","LONG05",2022-06-27,"",NA,"",NA,"",26,2022,0
+"166","LONG05",2022-07-05,"Abigail Bower",0,"0",1,"0",27,2022,1
+"167","LONG05",2022-07-11,"",NA,"",NA,"",28,2022,0
+"168","LONG05",2022-07-20,"Abigail Bower",7,"7",0,"0",29,2022,1
+"169","LONG05",2022-07-26,"Jesse Homza",0,"0",6,"0",30,2022,1
+"170","LONG05",2022-07-26,"Jesse Homza",0,"0",18,"0",30,2022,1
+"171","LONG05",2022-08-01,"",NA,"",NA,"",31,2022,0
+"172","LONG05",2022-08-01,"",NA,"",NA,"",31,2022,0
+"173","VISC01",2021-07-28,"Jesse Homza",NA,"-",10,"",30,2021,0
+"174","VISC02",2022-07-05,"",NA,"",NA,"",27,2022,0
+"175","VISC02",2022-07-18,"",NA,"",NA,"",29,2022,0
+"176","VIZC01",2021-06-28,"Greta Holliday",0,"0",27,"0",26,2021,1
+"177","VIZC01",2021-07-08,"",NA,"",NA,"",27,2021,0
+"178","VIZC01",2021-07-15,"",NA,"",NA,"",28,2021,0
+"179","VIZC01",2021-07-21,"Jesse Homza",0,"0",20,"0",29,2021,1
+"180","VIZC01",2021-08-04,"",NA,"",NA,"",31,2021,0
+"181","VIZC01",2021-08-12,"Abigail Bower",12,"12",19,"0",32,2021,1
+"182","VIZC01",2022-06-27,"",NA,"",NA,"",26,2022,0
+"183","VIZC01",2022-07-05,"Jesse Homza",0,"0",2,"0",27,2022,1
+"184","VIZC01",2022-07-11,"Jesse Homza",0,"0",4,"0",28,2022,1
+"185","VIZC01",2022-07-18,"Jesse Homza",0,"0",2,"0",29,2022,1
+"186","VIZC01",2022-07-26,"Jesse Homza",0,"0",15,"0",30,2022,1
+"187","VIZC01",2022-08-01,"",NA,"",NA,"",31,2022,0
+"188","VIZC01",2022-08-01,"",NA,"",NA,"",31,2022,0
+"189","VIZC02",2021-06-29,"",NA,"",NA,"",26,2021,0
+"190","VIZC02",2021-07-15,"",NA,"",NA,"",28,2021,0
+"191","VIZC02",2021-07-22,"",NA,"",NA,"",29,2021,0
+"192","VIZC02",2021-07-28,"",NA,"",NA,"",30,2021,0
+"193","VIZC02",2021-07-29,"",NA,"",NA,"",30,2021,0
+"194","VIZC02",2021-08-04,"",NA,"",NA,"",31,2021,0
+"195","VIZC02",2021-08-10,"Greta Holliday",0,"0",10,"0",32,2021,1
+"196","VIZC02",2022-06-27,"",NA,"",NA,"",26,2022,0
+"197","VIZC02",2022-07-11,"Abigail Bower",1,"1",4,"0",28,2022,1
+"198","VIZC02",2022-07-18,"Jesse Homza",0,"0",16,"0",29,2022,1
+"199","VIZC02",2022-07-26,"Jesse Homza",0,"0",51,"0",30,2022,1
+"200","VIZC02",2022-08-01,"",NA,"",NA,"",31,2022,0
+"201","VIZC03",2020-06-29,"",NA,"",NA,"",26,2020,0
+"202","VIZC03",2021-06-29,"Abigail Bower",70,"70",32,"0",26,2021,1
+"203","VIZC03",2021-06-29,"",NA,"",NA,"",26,2021,0
+"204","VIZC03",2021-07-08,"",NA,"",NA,"",27,2021,0
+"205","VIZC03",2021-07-15,"",NA,"",NA,"",28,2021,0
+"206","VIZC03",2021-07-28,"",NA,"",NA,"",30,2021,0
+"207","VIZC03",2021-08-04,"",NA,"",NA,"",31,2021,0
+"208","VIZC03",2021-08-10,"Abigail Bower",2,"2",7,"0",32,2021,1
+"209","VIZC03",2022-06-27,"",NA,"",NA,"",26,2022,0
+"210","VIZC03",2022-07-05,"Jesse Homza",0,"0",9,"0",27,2022,1
+"211","VIZC03",2022-07-11,"",NA,"",NA,"",28,2022,0
+"212","VIZC03",2022-07-18,"Jesse Homza",0,"0",9,"0",29,2022,1
+"213","VIZC03",2022-07-26,"Abigail Bower",62,"62",42,"0",30,2022,1
+"214","VIZC03",2022-08-01,"",NA,"",NA,"",31,2022,0
+"215","VIZC03",2022-08-01,"",NA,"",NA,"",31,2022,0
+"216","VIZC04",2021-06-29,"",NA,"",NA,"",26,2021,0
+"217","VIZC04",2021-06-29,"Greta Holliday",1,"1",192,"0",26,2021,1
+"218","VIZC04",2021-07-15,"",NA,"",NA,"",28,2021,0
+"219","VIZC04",2021-07-18,"",NA,"",NA,"",29,2021,0
+"220","VIZC04",2021-07-21,"",NA,"",NA,"",29,2021,0
+"221","VIZC04",2021-07-22,"",NA,"",NA,"",29,2021,0
+"222","VIZC04",2021-08-10,"Greta Holliday",0,"0",17,"0",32,2021,1
+"223","VIZC04",2022-06-27,"",NA,"",NA,"",26,2022,0
+"224","VIZC04",2022-07-05,"",NA,"",NA,"",27,2022,0
+"225","VIZC04",2022-07-11,"",NA,"",NA,"",28,2022,0
+"226","VIZC04",2022-07-18,"Jesse Homza",0,"0",48,"0",29,2022,1
+"227","VIZC04",2022-07-26,"Jesse Homza",0,"0",88,"0",30,2022,1
+"228","VIZC04",2022-08-01,"",NA,"",NA,"",31,2022,0
+"229","vizcaen",2021-07-08,"",NA,"",NA,"",27,2021,0
